@@ -23,4 +23,12 @@ After restarting cursor, I check the terminal using command git --version, showi
 
 After verifying the latest Git version oc terminal. The next thing is to add Git paths from my User files in computer. Adding bin and cmd path for Git (C:\Program Files\Git\bin and C:\Program Files\Git\cmd ).
 
-After this has been done. A REDME.md file can be opened in Cursor IDE to be edited
+After this has been done. A REDME.md file can be opened in Cursor IDE to be edited.
+
+To push README.md file into github, run command to verify name and github email using
+>git config user.name
+>git config user.email
+
+Press ctrl+s after writing down on Readme.md and the to commit use ctrl+shift + G before clicking the "+' icon and then clicking checkmark.
+
+To Push, simply do Ctrl+Shift+P.
