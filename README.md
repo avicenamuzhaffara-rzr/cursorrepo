@@ -62,3 +62,6 @@ As the co-founder of SparkToro and former CEO of Moz, Rand Fishkin is perhaps th
 
 9~Dan Petrovic
 Based in Australia and founder of DejanSEO, Dan Petrovic is a rare breed of expert who focuses on deep, ongoing experimentation with machine learning and Natural Language Processing (NLP). Unlike those who stick to high-level strategy, Petrovic spends his time running technical experiments to see exactly how generative engines synthesize and cite information. His work is highly respected for its "lab-like" approach; he is known for reverse-engineering search algorithms to figure out what content signals actually trigger an AI citation. He is an excellent choice if you want to include someone who prioritizes technical, "under-the-hood" optimization over generic marketing buzzwords.  
+
+10~ Mike Khorev
+Why include him: He is a boutique specialist who focuses on the technical side of optimizing for platforms like ChatGPT and Perplexity. He frequently publishes guides on ranking signals for AI search and how to use AI tools for specific SEO tasks, making his content highly practical for your "technical pipeline" project.
