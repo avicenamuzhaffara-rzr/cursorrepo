@@ -1,0 +1,134 @@
+# YouTube Transcript - Chris Raulf
+
+**Video Title:** [https://www.youtube.com/watch?v=9KNHBpnVryo]  
+**Video URL:** [Google Rankings Multiply AI Citations]  
+**Date Published:** [Jun 10 2026]  
+**Collected:** June 14, 2026
+
+---
+
+## Transcript
+
+[ ### **Introduction**
+**Chris Ralph (Host):** Welcome to the *AI SEO Insider* podcast. I’m Chris Ralph, founder of Boulder SEO Marketing. Today, we’re cutting through the AI hype with Cyrus Shepard. Cyrus is widely known from his days leading SEO at Moz, his experience as a former Google Quality Rater, and his independent consultancy. About a month ago, he published a fascinating, evidence-based meta-analysis of 54 studies on AI citations. Cyrus, welcome back to the show!
+
+**Cyrus Shepard (Guest):** Thanks, Chris. Happy to be here and chat with someone who knows AI and SEO as well as you do. 
+
+### **What is an AI Citation and Why Does it Matter?**
+**Chris:** Let’s set the table. In plain terms, what is an AI citation, and why should a business owner care?
+
+**Cyrus:** When you ask an AI engine a question, it generates an answer. The "citations" are the links that ground that answer. If you want to read more, you click the link and go to the website. While people might not click them as frequently as traditional organic search results, they still drive traffic, provide massive brand visibility, and indicate that you are doing something right in the AI ecosystem. 
+
+**Chris:** To prove it works, we implemented a sophisticated Generative Engine Optimization (GEO) strategy at Boulder SEO Marketing. When we ask our new leads, "How did you find us?" about 50% of them say, "You were cited in ChatGPT, Claude, or Perplexity." It is driving real results.
+
+### **The Meta-Analysis: 54 Studies & 23 Factors**
+**Chris:** You scored 23 different factors on an "evidence scale" out of 10. How does that scale work, and how is it different from the hot takes on LinkedIn?
+
+**Cyrus:** I didn't do original research for this; instead, I did a meta-analysis. I gathered 54 separate studies, patents, and experiments from researchers like Dan Petrovic, Kevin Indig, and various academics. I put everything into a spreadsheet, mapped out what "lever" each study was pulling, and hand-weighted the strength of the evidence. 
+
+The result was a heat map of about 23 to 24 factors with strong-to-weak evidence. But here is the TL;DR for anyone who doesn't want to overthink it:
+1. **Don't block AI crawlers.** Make sure your pages are accessible. Many IT departments accidentally block AI bots via Cloudflare or `robots.txt`.
+2. **Foundational SEO still works.** For 80% of sites, just doing basic, high-quality SEO is enough to get cited in AI. 
+
+### **Navigating Google I/O and Personalization**
+**Chris:** At a recent conference, I asked the audience who is actively doing AI-specific SEO, and only 1 or 2 out of 10 people raised their hands. Meanwhile, Google I/O announces massive AI shifts, which panics people. What’s your take on staying sane?
+
+**Cyrus:** Google I/O is a marketing event for investors. They make flashy promises that don't always pan out immediately. The reality on the ground is that the months *after* Google I/O look a lot like the months *before* it. The timeline for a total shift in search is 3 to 5 years, not the next 12 months.
+
+**Chris:** But what about personalization? Google just expanded personal AI features to nearly 200 countries, meaning two people get totally different results for the same query based on their Gmail and photos. Does that break the idea of "ranking"?
+
+**Cyrus:** It makes it highly personalized, but there are ways to influence it. Mike King and the team at iPull Rank did an experiment where they emailed clients with their brand recommendation. The clients who engaged with that email started seeing iPull Rank recommended much more often in their personalized AI Overviews. It’s the "Wild West" right now. You can influence these results through direct engagement, emails, and other channels. Eventually, marketers will overplay it, and Google will have to filter out the spam, but right now, foundational marketing signals still work.
+
+### **Why Foundational SEO & "Fan-Out" Queries Still Rule**
+**Chris:** Let’s talk about the heavy hitters. "Search Rank" scored a 9.4 out of 10 on your evidence scale. Are people overcomplicating AI SEO when the real answer is just doing foundational SEO better?
+
+**Cyrus:** Absolutely. When ChatGPT first launched, it hallucinated a lot. Now, every AI engine "grounds" its answers in real-world information—usually by pulling from live search results. Because Google has the best search ecosystem, the top-ranking results for a query inform about 95% of AI answers today. If you rank well in traditional search, you will get cited in AI.
+
+**Chris:** "Fan-Out Rank" scored a 9.3. A lot of people think AI just processes a single query. Can you explain "fan-out" and why ranking for a cluster beats ranking for a single keyword?
+
+**Cyrus:** If you ask an AI, "What running shoes are best for men over 50?", it doesn't just search that exact phrase. It performs "fan-out" queries: *What are the best Nike shoes? What are the best shoes for pronation?* It builds a universe of related searches to formulate an answer. 
+
+Research shows that ranking on the first page for the main query gives you about a 33% chance of being cited. But when you include fan-out queries—ranking for the whole cluster of related topics—your chance of being cited jumps to 80% or 90%. You want to rank for the main query *and* the related queries.
+
+### **AI-Ready Content: Token Budgets & Factual Specificity**
+**Chris:** "AI-Ready Structure" scored an 8.6. Are we moving away from prose-heavy blogging into an era where data density and scannability rule?
+
+**Cyrus:** Yes. Dan Petrovic did great research on how Google Gemini retrieves information. He found that each page has a "token budget." The lower you rank, the smaller your budget. The AI won't pull the whole page; it pulls specific sections. If your heading is at the top, but the answer is buried at the bottom, you're making the AI work too hard to connect them. Keep your information tightly structured: Question, Answer, Question, Answer. Put the most important information near the top.
+
+**Chris:** "Factually Specific" scored an 8.3. Your protein example was perfect: *"0.8 grams per kilogram"* beats *"adults need a lot of protein."* Why do engines reward specific claims so much?
+
+**Cyrus:** When an AI cites you, it is looking for evidence to support the answer it’s giving the user. Vague claims don't help the AI. The more specific you are, the more facts, data, and explicit evidence you provide, the more the AI trusts you and uses you as a source.
+
+### **The Over-Optimization Trap & Google's "Anti-SEO" Bias**
+**Chris:** What is one SEO best practice from 5 years ago that will absolutely get a site ignored today?
+
+**Cyrus:** Trying to rank for everything. Sites that try to cover every conceivable keyword are dropping in traffic. Google now rewards a very tight topical focus. You need to niche down and be highly specific in your expertise. 
+
+Furthermore, Google has developed an explicit "anti-SEO" bias. In the past, you just lost rankings for having too many exact-match keywords. Now, we see sites penalized for having too many internal links, too much exact-match anchor text, or clickbaity title tags. "Boring" sites that don't try too hard tend to perform much better than sites that are overly aggressive with their SEO.
+
+### **The "Evidence Cycle" for E-E-A-T**
+**Chris:** Your new play is non-scalable, person-focused content: real images, primary tests, your own videos. How do you operationalize this without burning out?
+
+**Cyrus:** Use the **Evidence Cycle**. Whenever you make a claim in your content, you must show *how* you got that information. If you claim you are the best widget manufacturer, don't just say it. Provide the evidence: *Here are our awards. Here is our manufacturing process. Here is a picture of us making the widgets.* Every claim needs evidence. It’s a simple step, but it proves to both Google and AI that you actually did the work.
+
+### **Measuring AI Success: Traffic vs. Brand Visibility**
+**Chris:** How do we measure success? Everyone is struggling with attribution. 
+
+**Cyrus:** There are no clear answers yet, but we need to change our mindset. Raw traffic isn't as important as it used to be. I have clients whose Google organic traffic has dropped, but their business is booming because they are getting the *right* kind of traffic. 
+
+The evaluation phase for customers used to happen on your website. Now, a lot of that evaluation happens inside the AI. The user doesn't visit your site until they are ready to make a purchase. So, track your brand visibility and how you appear in AI, rather than obsessing over raw website clicks. As you mentioned, Chris, the leads you get from LLMs are often better qualified because they’ve already done their research.
+
+**Chris:** Exactly. And interestingly, in your study, "Brand Entity Trust" scored a 6.8, while "Domain Authority" only scored a 5. Is Domain Authority losing its throne?
+
+**Cyrus:** It is losing some of its power. Domain authority still has a weak correlation with AI citations, mostly because high DA sites tend to rank well in traditional search. But DA alone is no longer a guarantee of AI visibility. Brand trust and entity recognition are becoming much more important.
+
+### **The Verdict on Structured Data (Schema)**
+**Chris:** Last technical question: "Structured Data" scored only a 5.6. Yet, nearly every study finds a small but consistent positive effect. Is it worth the effort?
+
+**Cyrus:** Yes. There is a silly debate in the SEO community that "LLMs can't read schema." But every study shows a slight positive correlation between structured data and higher AI citation visibility. Structured data helps you win rich results in traditional search, and there is evidence that AI systems (especially Google's) can read it. There is no harm in using it, and it correlates with better results. Just keep using it.
+
+### **Rapid Fire & Outro**
+**Chris:** Let’s end with a quick rapid fire. Wine or beer?
+**Cyrus:** Wine. 100%.
+
+**Chris:** Dogs or cats?
+**Cyrus:** Cats.
+
+**Chris:** Beach or mountain?
+**Cyrus:** Mountain.
+
+**Chris:** Indian or Chinese food?
+**Cyrus:** Indian.
+
+**Chris:** Claude or ChatGPT for your daily research?
+**Cyrus:** I’ve been using ChatGPT since day one, but I’m dipping my toes into Claude and have a feeling I’m switching over completely.
+
+**Chris:** Awesome. Cyrus, where can people find you and grab this study?
+
+**Cyrus:** You can find me on LinkedIn, and my newsletter is **Zyppy Signal** on Substack. Subscriptions are free and help me fund this research. I also take on a limited amount of client consulting work. 
+
+**Chris:** Thank you so much for taking 54 studies and turning them into something we can act on Monday morning. Stay safe and healthy, everyone, and we’ll catch you next time on the *AI SEO Insider* podcast!]
+
+---
+
+## Key Points
+
+Key Points
+-AI Tools: ChatGPT, Claude, Perplexity, Google Gemini, Brave Search.
+-Strategies: Unblock AI crawlers, master foundational SEO (ranking = citing), target "fan-out" query clusters, niche down to a tight topical focus, and use the "Evidence Cycle" to prove content claims.
+-Tactics: Structure content as tight Q&A near the top of the page (respects AI token budgets), use exact data instead of vague claims, avoid over-optimizing (boring sites rank better), and keep using Schema.
+
+---
+
+## My Notes
+
+Why chosen: To understand the actual, evidence-based factors (from a 54-study meta-analysis) that drive AI citations, cutting through industry hype.
+
+Relation to research: Validates that traditional SEO still drives 80% of AI success, but highlights new structural, topical, and personalization shifts required for the remaining 20%.
+
+Actionable insights:
+-Audit robots.txt/Cloudflare to ensure AI bots aren't accidentally blocked.
+-Target "fan-out" (related) query clusters to boost citation probability from 33% to 90%.
+-Format content in tight, top-loaded Q&A structures to fit AI "token budgets."
+-Replace vague claims with hard data and the "Evidence Cycle" (prove your claims with awards, photos, or processes).
+-Dial back aggressive SEO tactics (clickbait titles, excessive exact-match links); "boring" sites currently win..
