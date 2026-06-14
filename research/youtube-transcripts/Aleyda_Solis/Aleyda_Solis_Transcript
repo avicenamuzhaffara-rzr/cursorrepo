@@ -1,0 +1,113 @@
+# YouTube Transcript - Aleyda Solis
+
+**Video Title:** [https://www.youtube.com/watch?v=pqrwpXpMM6s]  
+**Video URL:** [202: Aleyda Solís: AI search crawlability and why your site’s tech foundations decide visibility]  
+**Date Published:** [Jan 13 2026]  
+**Collected:** June 14, 2026
+
+---
+
+## Transcript
+
+[Here is a cleaned-up, easy-to-read version of the podcast transcript. The sponsor reads have been removed, filler words and false starts have been trimmed, and the conversation is broken down into clear, topical sections for better readability.
+
+***
+
+### **Introduction**
+**Phil (Host):** What's up everyone? Today we had the honor of sitting down with Aleyda Solis, an international SEO consultant. In this episode, we tackle crawlability requirements for AI search engines, why LLMs are just a new search channel, AI search visibility analysis, and how topic-level analysis shapes AI search strategy. I'm joined by my old co-founder and co-host, John Taylor.
+
+**John (Co-Host):** Thanks for having me back. I hope you enjoy all the artwork behind me—I've spent the last year trying to become an artist using Midjourney coloring books. This is the vibe these days: AI for everything.
+
+### **1. The Core SEO Principles That Still Apply to AI Search**
+**Phil:** Aleyda, you've echoed the sentiment that good SEO is good GEO (Generative Engine Optimization). Which core SEO practices remain critical for success in today's AI-driven search results?
+
+**Aleyda Solis:** The principles of SEO remain valid and highly relevant in AI search. From a crawlability standpoint, you need to allow AI crawlers to access your content. The rules might differ depending on your context, and you may need to adjust your hosting or CDN settings because the user agents are different. You might be allowing traditional search engine crawlers but unknowingly blocking AI crawlers.
+
+We often complain about Google's ability to index our content, but they are very sophisticated at rendering JavaScript. AI crawlers, however, don't do this at all. If you rely on client-side rendered JavaScript for critical content or navigation, AI crawlers won't see it.
+
+Furthermore, there's a shift in search behavior. OpenAI's research highlighted new task-oriented intents that didn't exist in traditional search. There's also a shift in the role of citations and mentions as a signal of authority. If you had a mature SEO program, you were likely already aligned with digital PR and community management. However, you were probably focused much more on getting backlinks than on brand mentions. The importance of mentions has now changed.
+
+Finally, traditional search has historically been treated as a performance channel focused on rankings, clicks, traffic, and conversions. It would be myopic to treat AI search purely through that lens. AI search has a strong branding layer. The visibility, share of voice, and sentiment of your brand—even without a direct link or click—play a role in the purchasing journey and should be monitored.
+
+### **2. LLMs as a New Search Channel**
+**John:** You described the key differences between SEO and GEO, but also the tools SEOs will use to solve GEO's problems. When I scroll LinkedIn, I constantly see "SEO is dead." But what you're describing encapsulates what I see with clients: confusion about where GEO fits. I've been thinking about LLMs as just a new channel within a broader medium—like TikTok to YouTube. How do we communicate this to stakeholders?
+
+**Aleyda:** I completely agree. It's ironic because in the Western world, we've traditionally complained about Google's monopoly. But as SERPs shift and diversify, and other platforms like ChatGPT and Perplexity take part, the reaction is often "SEO is dying" rather than "SEO is evolving." 
+
+People are using multiple platforms to discover and consume information. In China, for example, Baidu doesn't have the same weight Google has in the West. People use a variety of platforms like RedNote (their Instagram-like app) and TikTok. They are much more used to diversifying their presence. In the West, we will eventually realize that SEO isn't just for Google anymore. We need to optimize for whatever platform the audience is using and shift our priorities based on what those platforms value.
+
+### **3. Integrating GEO into Mature SEO Teams**
+**John:** How do you layer GEO into a mature SEO team? How do you break out the tasks and earmark roles for a GEO focus versus an SEO focus?
+
+**Aleyda:** First, assess how much traffic and revenue LLMs are currently driving to your site. Do audience research on the top platforms driving traffic to you and your competitors. Check your visibility for top queries. Are you being cited positively, or are you mentioned with bad ratings in buried Reddit threads? 
+
+You need to do a research analysis and audit. For example, I recently discovered my hosting company was proactively blocking AI bots from accessing a few of my sites. Many hosting companies do this by default, so you need to validate your settings and opt-in if you want to be visible to AI.
+
+As for roles, I don't think you need to create a brand-new discipline just for this. Your existing SEOs—whether in-house or at an agency—already have the know-how to understand these criteria and use the tools. Leverage what you already have. In a few years, if platforms become vastly different, you might need specialized LLM experts, just like we have TikTok specialists today. But right now, marketing is about impact and ROI, so leverage your existing team.
+
+### **4. Rethinking Content Strategy for AI Search**
+**Phil:** How do we track GEO? Do we go back to first principles? Does the top-of-funnel model even make sense anymore?
+
+**Aleyda:** It's definitely a shift away from the traditional tactic of creating massive amounts of generic, top-of-funnel informational content just to attract traffic. Google's AI Overviews already satisfy those high-level, generic questions. 
+
+However, you shouldn't stop investing in informational content entirely. You need it to establish authority and attract citations. The key is that the content must be strictly on-brand. Instead of fluffy glossary pages, focus on industry insights, research, stats, trends, case studies, thought leadership, and comparisons. Optimize help centers and forums to address informational questions at the start of the buyer's journey. 
+
+This content is useful for your customers regardless of AI. Even if an LLM provides a summary, users who want to dig deeper will look for the source. If your brand provided that authoritative answer, they will recognize you and be more likely to purchase later.
+
+**John:** The LLM SEO game has given me permission to talk to people in the organization I wouldn't typically talk to, like salespeople. I ask them, "What are the customers' pain points? What words do they use?" How do we mine content that is relevant and aligned with the persona and customer journey?
+
+**Aleyda:** Historically, SEO was very tactic-oriented, driven purely by search volume from tools, without consulting customers or product teams. Good SEO talks to product, customer service, digital PR, and branding to target queries that align with the brand. 
+
+Years ago, I had a cruise line client. The keyword research showed "cheap cruises" was a top search term. But the client said, "We are not cheap. We don't want those keywords." That's the insight you miss if you don't talk to the business. Many platforms lost massive traffic in recent Google updates because they were targeting off-topic, high-volume keywords that didn't align with their core expertise. Never has there been a better time to be thoughtful about what you write, ensuring it aligns with your unique selling proposition and brand values.
+
+### **5. Prompt Tracking and Topical Authority**
+**Phil:** There's a lot of obsession around tracking specific LLM prompts. How do we build a topical map around prompts without getting lost in the weeds?
+
+**Aleyda:** We should focus on topics rather than individual prompts. Tools now aggregate prompts per topic. If I'm a sports retailer, I want to see my visibility for "women's sneakers" or "men's jackets" rather than generic visibility. I validate my brand's visibility, share of voice, and sentiment against competitors within those specific contexts. 
+
+You can track a few reference prompts over time to see how your visibility shifts, but don't obsess over ranking for one specific, highly personalized prompt. LLM answers are heavily personalized based on user context, location, and history. The same problem is rarely asked the exact same way twice. Focus on your share of voice within a topic area.
+
+### **6. The Future of AI Search Transparency**
+**Phil:** Do you have hopes that we'll see "Search Consoles" for LLMs like ChatGPT or Perplexity to provide more transparency?
+
+**Aleyda:** I believe they will come eventually, once the market settles and they can prove their value. Right now, they might not be referring as much traffic as they'd like to admit. The tipping point will likely be when these channels start consistently selling ads. Once they introduce shopping integrations and ads, they will need to provide more data, metrics, and visibility to advertisers, which will give us access as well.
+
+### **7. Will AI Reward Expert Content?**
+**Phil:** There's optimism that advanced AI search will finally reward genuinely insightful, expert content over generic SEO listicles. Do you share this optimism?
+
+**Aleyda:** This is already happening. I'm seeing startups that haven't invested heavily in traditional SEO suddenly get cited in ChatGPT, and it becomes their biggest traffic driver. They might not have powerful backlinks or a perfect taxonomy yet, but they have a strong community, positive mentions on YouTube and social platforms, and great product marketing. Because they are positively cited in a hot topic area, they are reaping the rewards. AI search is rewarding real community signals and genuine expertise.
+
+### **8. Personal Alignment and Resources**
+**Phil:** Last question, Aleyda. You're an SEO consultant, a frequent speaker, an author, and a paddle tennis player. How do you decide what deserves your energy and stay aligned with what makes you happy?
+
+**Aleyda:** It all comes down to independence and purpose. I really enjoy SEO and talking with customers, which is why I run a boutique consultancy rather than a massive agency—it allows me to stay in touch with clients. I work remotely, which gives me the flexibility to attend events and engage with the community. 
+
+For my personal life, I prioritize activities that align with my preferences and keep me healthy without boring me. I don't like the gym, so I jump rope at home. Paddle tennis is very social and fun. I try to blend my lifestyle with what I enjoy and what has an impact, aligning my professional and personal goals.
+
+**Phil:** Thank you so much for your time today. Before we go, do you have any resources to plug?
+
+**Aleyda:** Yes, I have a few free resources for those who want to keep up with AI search. First, **learning.ai**, where I aggregate reliable resources to learn and execute top AI search activities. Second, my main newsletter, which has almost 40,000 subscribers. And finally, **AIMarketers.com**, which covers top news and trends in AI marketing. 
+
+**Phil:** Awesome. Thank you for everything you do for this space, Aleyda.]
+
+---
+
+## Key Points
+
+
+AI Tools: ChatGPT, Perplexity, Claude, Baidu, RedNote, Midjourney, Whisper.
+Strategies: Unblock AI bots, prioritize brand mentions over backlinks, treat AI as a branding channel, publish expert/on-brand content.
+Tactics: Audit CDN for AI bot blocks, use Server-Side Rendering (SSR), track visibility by topic (not exact prompts), interview sales/support.
+
+---
+
+## My Notes
+
+Why chosen: To understand the shift from traditional SEO to Generative Engine Optimization (GEO).
+Relation to research: Tracks the pivot from keyword metrics to brand visibility and topic authority in LLMs.
+Actionable insights:
+-Verify hosting allows AI crawlers.
+-Implement SSR for critical content.
+-Build expert, on-brand assets (no generic fluff).
+-Track AI share-of-voice by topic.
+-Mine sales/support for content ideas.
