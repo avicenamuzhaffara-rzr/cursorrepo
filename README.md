@@ -64,3 +64,5 @@ Based in Australia and founder of DejanSEO, Dan Petrovic is a rare breed of expe
 Why include him: He is a boutique specialist who focuses on the technical side of optimizing for platforms like ChatGPT and Perplexity. He frequently publishes guides on ranking signals for AI search and how to use AI tools for specific SEO tasks. 
 
 According to enago.com, Mike Khorev is "a lead SEO expert at Nine Peaks Media a B2B SaaS SEO agency that helps software, IT, technology, and start-up companies improve their ranking on Google search. He offers expert advice on optimizing websites through performance-based on and off site SEO, inbound marketing, conversion rate optimization, search engine marketing, and many other online practices, making his content highly practical for a highly technical pipeline project.
+
+.
