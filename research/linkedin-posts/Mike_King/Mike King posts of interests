@@ -1,0 +1,37 @@
+# LinkedIn Post - Michael 'Mike' King
+
+**Date:** May, 2026  
+**Post URL:** [https://www.linkedin.com/posts/michaelkingphilly_quick-tip-how-page-speed-impacts-chatgpt-activity-7458577277656899584-axXn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8YMEIB1QBQcP-pqGtCb8OxoQxQtKoDDrQ]  
+**Topic:** AI + SEO Https optimization
+
+---
+## Post Content
+
+[There's a status code that doesn't exist in the official HTTP spec, your SEO tools don't surface it, and it may be quietly making your content invisible to ChatGPT and Perplexity.
+
+Not underperforming. Invisible.
+
+We've been seeing a clear pattern in our AI Search Pilot work and when we dug into the data with the team at Profound across 700K pages, the numbers were hard to ignore.
+
+The fix isn't complicated. But you have to know what you're looking for first.
+
+AI Search has a prerequisite layer that most SEOs have never thought about. Visibility isn't possible without eligibility. 
+
+The full breakdown, what's happening, why it's happening, and what to do about it, is in the link below..]
+
+---
+
+## Key Takeaways
+
+1. Speed is your entry ticket. AI systems don’t just rank pages; they first have to "fetch" them. If your site takes too long to load, the AI simply cuts the connection and moves on to a faster site. You don’t get a ranking penalty—you get ignored entirely.
+
+2. The "499" error is the red flag. This is the technical code for "the visitor (the AI) left before the page finished loading." If your analytics show high 499 errors, your site is too slow for AI agents.
+
+3. AI is impatient. Unlike human users who might wait a few seconds, AI bots are built to be incredibly fast. They scan many sites at once, and they have no patience for a sluggish server or heavy code.
+
+---
+
+## My Notes
+
+- -
+--
