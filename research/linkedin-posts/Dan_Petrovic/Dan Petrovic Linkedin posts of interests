@@ -1,0 +1,76 @@
+# LinkedIn Post - Dan Petrovic
+
+**Date:** June 5, 2026  
+**Post URL:** [https://www.linkedin.com/posts/seoguy_more-fun-google-ai-overviews-leaks-this-activity-7467398537841111040-EHqP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8YMEIB1QBQcP-pqGtCb8OxoQxQtKoDDrQ]  
+**Topic:** AI + SEO keywords research tools
+
+---
+## Post Content
+
+[ Natzir Turrado pinged me on this one but I think this one is too important for the AI SEO community to be buried as a comment. What you're seeing here is Gemini as a ranker/re-ranker/selector using Google's grounding backend index enumeration to sort and filter out final candidates. 
+
+n.n.n = Corpora . Document . Chunk
+
+I covered this extensively in March and May last year with:
+
+1. https://lnkd.in/gHvhfCbf
+2. https://lnkd.in/gm8Qy4xW
+3. https://lnkd.in/g5asTUT4
+4. https://lnkd.in/g3DF_X7s
+5. https://lnkd.in/gm_5ewcV
+
+The index numbers you see are all fan-out query specific and come from from Google's internal content/passage repository and not the live web.
+
+So Gemini here acts as a ranker/selector model and picks and chooses which grounding sources to integrate into the final generative output and how to integrate them to best match the user intent.
+
+I refer to search and grounding chunks which represent each ranking page as the secondary bias. Primary bias being model's parametric memory baked in during training: https://dejan.ai/blog/sr/
+Both work together and can go in favour or against products, services and brands with respect to user query and intent.
+
+How I commercialise this as part of my service:
+- Concepts: https://lnkd.in/gchJu8fr
+- Method: https://lnkd.in/g-4n9eix
+
+Additional reads:
+https://lnkd.in/gek2bYSB
+https://lnkd.in/gTJ59g8j
+https://lnkd.in/gcwiCyKw
+https://lnkd.in/g6SAd6dc
+https://lnkd.in/g3NWNHnr
+https://lnkd.in/gTYJQByc
+https://lnkd.in/gixDDXVm
+https://lnkd.in/gtTxVhvW
+
+Tool:
+https://lnkd.in/geJYYYwM
+
+The good news guys is that AI SEO isn't this mythical, esoteric thing we pray to like we did with Google algo gods. Avoid bros with smoke and mirrors and scientific sounding buzzwords and follow common sense and your own observations.
+
+If you're considering a consultant or an agency ask them "how" repeatedly until you get down to the nucleus. If they start handwaving or using buzzwords at any point before you get to the core of the matter - thank them for their time and leave.
+
+I am a custodian of the following listicle and keep adding the good guys to it, if you have any suggestions or think you need to be on it please message me: https://lnkd.in/gGAYaDBc]
+
+---
+
+## Key Takeaways
+
+1. Gemini’s Role as a Curator
+Gemini acts as a "ranker and selector" model in AI Overviews. It uses Google’s grounding index to filter and sort information, deciding which specific content chunks to integrate into a final response based on the user's intent.
+
+2. Understanding "Grounding" Identifiers
+The numerical strings sometimes seen in AI search results are internal identifiers for corpora, documents, and content chunks. These values are specific to the query's "fan-out" process, pulling from Google’s internal repository rather than a live crawl of the web.
+
+3. The Two-Layer Bias
+AI search visibility is governed by two layers: the "primary bias" (the model's internal knowledge learned during training) and the "secondary bias" (the specific search results and grounding chunks selected by the model). Both must align to favor a brand or service.
+
+4. Rejecting AI SEO "Smoke and Mirrors"
+Effective AI SEO is not a mystical process. It is grounded in logical observation and common-sense strategies. The author advises avoiding agencies that rely on buzzwords and encourages asking "how" until the core technical mechanism is explained.
+
+5. Practical Strategy for Businesses
+Success in AI search requires shifting focus from standard keyword ranking to influencing the information the model uses for grounding. Businesses should focus on maintaining high-authority, credible content across core platforms that the AI naturally prioritizes for source material
+
+---
+
+## My Notes
+
+- -
+--
