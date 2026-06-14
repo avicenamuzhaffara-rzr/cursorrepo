@@ -11,7 +11,6 @@ My objective is to research how top experts use AI tools for SEO content creatio
 2. What projects have they done to make the eligible to be considered experts in SEO and AI related topics
 
 ## Listed experts (10 experts)
->>>>>>>>
 ## Why I'm choosing these guys
 LinkedIn organic content strategy for AI SEO
 
