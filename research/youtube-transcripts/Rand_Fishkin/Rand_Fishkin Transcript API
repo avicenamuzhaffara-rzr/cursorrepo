@@ -1,0 +1,61 @@
+# YouTube Transcript - Rand Fishkin
+
+**Video Title:** [Rand Fishkin on SEO, AI Overviews, and the Future of Content Marketing]  
+**Video URL:** [https://www.youtube.com/watch?v=5JQvdLYvGZI]  
+**Collected:** June 14, 2026
+
+---
+
+## Transcript
+
+[Edward: Everyone knows Rand Fishkin. But if you don't, you are missing out on one of the most legendary digital marketers in the world. You started Moz in 2004 as just a community, then launched Moz Pro in 2007. Moz is one of the main SEO tools out there, and you taught so many people SEO and digital marketing, myself included. You're a huge name. You also have SparkToro, an audience insights tool, you started a video game studio, and you wrote a book.
+Rand Fishkin: Yeah, among a few other things. But yes, all that is accurate. Except I think I started Moz in '03. It was '03. I just can't get Wikipedia to change it to be correct.
+Edward: Aside from being great at teaching SEO, I think you're one of the most well-rounded marketers. When you were doing Whiteboard Fridays, it wasn't just about nofollow vs. dofollow. It was about how to do social media marketing, email marketing, and how it all affects everything else.
+Rand: I mean, the job of digital marketing is to be knowledgeable in a wide degree of pursuits and channels. There is no such thing as "the only thing that matters is what I do on this one channel." Unfortunately, the SEO world—which I left about seven or eight years ago—has a tendency to hyperfocus on just "how high do I rank in Google" instead of thinking holistically about how every channel interacts and builds a brand over time. If my goal is to help people do better marketing, I better help them do better marketing of all kinds.
+Edward: I want to ask about your KPIs. For your companies, SparkToro and Snack Bar Studio, what are you paying attention to?
+Rand: For most of our social media marketing and search visibility, it's impressions. Basically, reaching more people. Because our conversations are relevant to what we're doing, impressions tell us how many people we're reaching and show the relative success of different campaigns. Then, at the bottom of the funnel, it's conversions: how many people sign up and pay for SparkToro, or try it for free every week. That's the real goal.
+Edward: Are you not concerned about AI overviews? Apple's Eddie Cue recently noted that Safari searches declined for the first time in 22 years, and he blamed AI. Alphabet shares sank 7%. If you were still in the SEO world, wouldn't you be concerned about zero-click searches?
+Rand: It depends on what part of the SEO world you're in. If you're an agency, there are tons of clients who can't be convinced they should care about influence rather than clicks. But if I were in-house, I wouldn't be worried. It doesn't particularly matter whether visibility in AI tools becomes more important, or if Bing vs. Google shifts. If you're in-house, you can just adjust to the times and make the right KPIs for your business.
+Regarding zero-click searches, I don't think the goal becomes "get traffic" or "create branding right there." The real goal is to give the answer that is most beneficial to two parties: your audience, so you continue to be the answer, and your business.
+For example, there's an AI overview that fires when you search "what is audience research." Google took a blog post my VP of Marketing wrote and made it the AI overview. It doesn't really mention SparkToro, and that's fine. What it does is nudge people to understand what audience research entails. If they decide they need to invest in it, long-term that nudges them towards SparkToro, which is one of the only tools that answers that for them. It's not about getting the click; it's about being the answer that nudges people in the direction you want.
+Edward: That makes sense. Let's talk about Snack Bar Studio, your indie game studio. How are you approaching marketing for it?
+Rand: Snack Bar Studio is going to be extremely different from Moz or SparkToro. With Moz, it was an SEO and content flywheel. With SparkToro, we recognized the zero-click problem, so we went heavily into PR, social media, and email newsletters.
+For Snack Bar Studio, I've done almost no marketing for the game itself, and that is intentional. I did a big data-driven study with some software engineering friends. We looked at about 80,000 games that have come out on Steam in the last 15 years. We built a machine learning model to correlate public sales announcements with metrics like Metacritic scores, Steam ratings, and review velocity.
+That data helped me select the setting (mid-century Italy) and the style (chill action RPG). But the biggest discovery was about timing: marketing more than a year before a game comes out is not just ineffective, it can work negatively against you. The people who would be most excited about the game get tired of waiting, and when it finally launches, they're over it. So, we won't do much marketing until 9 to 12 months before the game hits early access.
+Edward: That data-driven approach is brilliant. What did you learn about what actually works for game marketing?
+Rand: The most successful marketing shows off unique features, especially visuals that surprise people and attract them emotionally. Gamers have become extremely immunized to "sexy" trailers that don't show actual gameplay. They want to see what it's like to play. For indie studios, extremely short-form video showing surprising, emotionally triggering gameplay is what works.
+Edward: You're obviously obsessed with data. But how do you balance that with the fact that most consumers aren't convinced by stats?
+Rand: I love data because it's justifiable. I hate "because I said so." I want to see the numbers, like clinical trial results for a vaccine. But here is a hard message for marketers to grok: most people are not convinced by stats.
+If you're making a message for your landing page or an email, data and statistics often don't work. Anecdotes, stories, and emotions that trigger fear, surprise, or joy are much more effective at changing minds. It's infuriating, but we live in the real world. Use data to inform your own internal decisions, but use stories to persuade your audience.
+Edward: That’s a great lesson. What’s a crazy customer success story for SparkToro?
+Rand: A few years ago, a TV show contacted us. They were getting cancelled on a major streaming service and were trying to get picked up by another one. They used SparkToro data to get demographic and behavioral information about their viewers. They used that data in their pitch to show the new streaming service that they were reaching an exact audience the new platform wanted but didn't have yet. They won the contract and got uncancelled. I love that we helped a show get uncancelled.
+Edward: I have to bring up the Google API leak from a year ago. You dropped that bombshell. What did that confirm for you about engagement vs. backlinks?
+Rand: During the Department of Justice trial, a subpoenaed Google engineer submitted sworn testimony that engagement—clicks, bounces back to the SERP, all that stuff—was essentially the number one signal. Links were in the top five, but not the top three.
+It is so clear that engagement is what matters. If you make a better page, and your retention is higher, and people aren't "pogo-sticking" back to the search results, that's the best thing. I cannot imagine a world where you design an algorithm that says, "If this thing has more links, I don't care whether people like it or not, show it at the top." You'd be insane.
+Edward: It’s interesting how understanding search algorithms helps you understand social algorithms, though they have different goals.
+Rand: Exactly. Search's goal is to get people the answer as fast as possible, because the faster they get accurate info, the more they trust the engine and come back. Social media's goal is raw engagement and addiction—keeping people scrolling. The incentive structures are totally different.
+Edward: Speaking of social algorithms, we've seen that comments are weighted way heavier than shares on platforms like X and LinkedIn. Why do you think that is?
+Rand: If you're designing the algorithm, and you see that a comment is a stronger predictor of someone coming back to the app, opening it again, and engaging more versus just a share, you're going to bias your algorithm to show things that incite comments. A share is just "this is cool, others should see it." A comment means "you've hooked me." For micro-blogging platforms, comments drive repeat engagement much better.
+Edward: Rand, thank you so much for your time. You're an inspiration. Where can people find you and your stuff?
+Rand: If people are interested in Snack Bar Studio, it's snackbarstudio.com. There's an email list, but we won't send any emails for a long time! I'm most active on LinkedIn and Bluesky. Edward, thank you for having me.
+Edward: Thanks, Rand.
+(Rand's wife walks into the room)
+Wife: Sorry, Edward, can you remind me what the last question was?
+Edward: (Laughs) We're done! We're wrapping up.
+Rand: Thanks for your time, Rand. Bye.
+Wife: Bye.
+Edward: And that's a wrap. For everybody watching or listening, this is episode 674 of my daily digital marketing show. I haven't missed a single day. I will talk to you again tomorrow. Bye now.]
+
+---
+
+## Key Points
+
+The Goal of Zero-Click Search: When AI provides the answer without a click, your goal isn't to get traffic—it's to provide the answer that nudges the user toward your brand.
+
+Data for You, Stories for Them: Use hard data and statistics to make your own internal business decisions, but use stories, emotions, and anecdotes to persuade your audience. People don't buy based on stats.
+
+Engagement is the #1 Signal: The Google API leak confirmed what many suspected: user engagement (clicks, retention, avoiding "pogo-sticking") is a much stronger ranking factor than backlinks.
+
+Don't Market Too Early: Rand’s study of 80,000 Steam games revealed that marketing an indie game more than a year before launch actually hurts sales because early adopters get fatigued.
+
+Comments Beat Shares: On social platforms like X and LinkedIn, comments are weighted much heavier than shares because they are a stronger predictor of long-term user retention and app addiction.
