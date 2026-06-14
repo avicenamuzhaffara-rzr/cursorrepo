@@ -1,0 +1,72 @@
+# YouTube Transcript - Mike King
+
+**Video Title:** [How iPullRank drove 661% growth in ChatGPT visibility for a Fortune 500 Brand | Mike King]  
+**Video URL:** [https://www.youtube.com/watch?v=2dhXVZG9P5A]  
+**Collected:** June 14, 2026
+
+---
+
+## Transcript
+
+[Jared Smith (Host): Welcome to the Growth Boss podcast, where we seek out the secrets to high-performing campaigns from some of the smartest marketers in the world. I'm your host, Jared Smith. Today I have Mike King with me, and he's going to teach us how his agency, iPullRank, drove 661% growth in ChatGPT visibility for a Fortune 500 brand.
+Mike is an award-winning marketing leader, SEO expert, and founder of iPullRank, a top digital marketing agency trusted by brands like Adidas, American Express, and MGM Resorts. He's known for blending SEO, content strategy, and generative AI to help companies grow through data-driven campaigns. Mike, thanks so much for being here today.
+Mike King: Thanks for having me, Jared. I'm excited.
+Jared: Talk to us. What can you share about this case study? Are you able to share the brand?
+Mike: I can't say the exact brand, but I can say they're in the vehicle marketing space. They do a ton of content and they are a very sharp team. They're always trying to do cutting-edge stuff, and we've worked with them for a long time, so there's a lot of trust. When these new AI spaces emerged, they asked, "How do we get visibility here? We know it's not necessarily going to translate to direct traffic right away, but there's value in showing up when someone is looking for information on a car."
+Jared: 100%. Where were they at before they started? They probably had some natural visibility just from being a successful brand.
+Mike: I think it was something like 27% visibility across the keywords we were looking at. They were already naturally visible because a lot of our traditional approaches overlap with what you need for AI search.
+We've always done content optimization around the concept of relevance. Relevance isn't just a qualitative idea; it's a mathematical concept in the eyes of a search engine or ChatGPT. They take your content and plot it in multi-dimensional space, and they do the same with user queries. The content that is physically closest to the prompt in that space is considered the most relevant. We've been doing this for classic search for the last four or five years.
+But for AI, it came down to restructuring that content. We positioned it with clear headings written similarly to how a user might prompt, and we created clear demarcations in paragraphs. Typically, you write a paragraph and fill it with a bunch of different topics related to a core idea. For AI search, the more "atomic" you can make those messages—shorter paragraphs instead of a wall of text—the stronger it performs. It makes the content retrievable and highly related to what the user is looking for.
+We also fixed their internal linking structure. A lot of it was random, like linking a Lamborghini from a Toyota page. We made adjustments so the linking supported the retrieval aspect. ChatGPT doesn't just use Bing; they use a variety of sources, including Google. If we see you ranking well across multiple sources, the AI thinks, "Okay, this is likely the right answer."
+Jared: With the content optimization, is there a tool that helps with this these days? Is a Surfer or Page Optimizer Pro helpful, or does it really come down to just chunking content and adding subheads?
+Mike: The last time I looked at those legacy tools, they weren't really doing the semantic approach. There are technically three models of search: lexical (looking at word distribution), semantic (using AI to understand meaning), and hybrid (a combination). Most tools on the market only do the lexical side. They just tell you to use a word 50 times because everyone else uses it 40 times.
+We use internal tooling and collab notebooks for this. I have seen a couple of tools pop up recently, like Market Brew's Content Booster, which approaches this completely from a semantic perspective.
+It's not just about chunking. It's about identifying what you're missing. When a user types a prompt, the AI extrapolates it in the background into "synthetic queries." In ChatGPT, it might generate one to seven synthetic queries. For Google AI, it can be 10 to 40. You have to identify what those queries are and see if you have content that answers them.
+For this automotive client, we were inserting messages that were missing. For example, they had style and trim pages, but the core ranking page didn't have that specific info. We copied it over. Or, if a user review was ranking instead of an expert review, we figured out what question the user review was answering and added that expert insight to the main page.
+Jared: With a large Fortune 500 brand, off-page signals were probably already established. But what off-page strategies would you consider for a smaller brand to move the needle with LLMs?
+Mike: It's all about the content ecosystem. Creating a YouTube video is valuable because LLMs pull in transcripts. Getting into a Reddit thread and naturally reinforcing your website's message works. LinkedIn posts work incredibly well. Guest posting works.
+I'm seeing more people go back to microsites. Because AI looks for consensus, if you have the same core message in five different places—even if worded differently—and those five sources are all considered, you have a much higher likelihood of being included in the response. Off-page for AI isn't just about link equity; it's about getting your information out into more places the AI considers. It's essentially leveraging "parasite hosting" on high-authority sites like LinkedIn or Medium to get your content indexed and referenced.
+Jared: That makes sense. Where are the biggest areas of difference you've noticed between ranking in Google and ranking in ChatGPT?
+Mike: It's the fact that it's not about a single page; it's a matrix of queries shooting off in the background. It requires a robust omnimedia content strategy.
+A lot of early studies said, "If you rank in the top 10 for a query, you have a 25% chance of being in ChatGPT." I can't run a business off a 25% chance. I explain it like a raffle. You want as many raffle tickets as possible. You control whether you're being considered by flooding all the options the AI is looking at.
+Measurement is also completely different. You can't just look at traffic because these are branding channels, not just performance channels. If I ask AI for the best basketball shoes for flat feet and it gives me an answer, I might not click anything. I'll just walk into Foot Locker.
+We stratify measurement into three buckets:
+Performance metrics: Referral traffic, conversions, events.
+Channel metrics: Share of voice, citation rate, citation sentiment.
+Input metrics: Passage relevance scores, bot activity. If a page is getting crawled 50,000 times a day by AI bots, you can make an adjustment and see an immediate impact. Also, tracking your rankings for those synthetic queries is crucial.
+Jared: What are you using these days to track that progress? Are you spending $600 on Ahrefs' new AI tracker, or is there another tool you like?
+Mike: We're big fans of Profound. From my perspective, they are leading that space. They were one of the first solutions, but they innovate and ship faster than anyone else. They have the capability to measure across all three of those buckets.
+A lot of legacy SEO tools are trying to bolt this AI functionality onto systems that are still stuck on the old lexical model. Google has been semantic for 13 years. There's a massive gap in understanding, and a lot of legacy recommendations just don't move the needle for AI. Product-driven companies like Profound aren't bogged down by the history of SEO; they're just solving the new problem.
+Jared: What about conversions? What have you noticed regarding conversion rates for ChatGPT searches compared to traditional SEO?
+Mike: On average, I see something more like 5% to 7% for AI referrals. The reality is that the volume is nowhere near as high as traditional organic, but the conversion rate is a lot higher.
+I don't think it's necessarily because of "trust," as people understand AI hallucinates. I think it's because they educate themselves more before they click through. They'll have multiple turns in the conversation, and they only click when they are truly ready to take action. They don't need to click just to find out more information; they can get that right in the chat box.
+Jared: What are some other misconceptions you're seeing with this whole AI/LLM optimization debate?
+Mike: The main one is that it's exactly the same as SEO.
+Another big misconception is that more people are using AI tools than Google, which is frankly not true. The overlap between users of ChatGPT and Google is 90%, and about 40% of all users who leave ChatGPT go straight to Google to verify information.
+There's a lot of hype about the trillions of dollars being poured into AI, so people assume it's going to supplant Google. I don't think that's true. Google has massive advantages: they have more data than everyone, they have multiple products with over a billion users they can integrate Gemini into, and they have their own chips. OpenAI has to scramble to raise money just to exist. Google can just sit back, watch OpenAI, and add the features. Generative AI is just an extension of search technology, and Google has the most experience with that. I think Google will win the long game.
+Jared: Where do you see SEO going from here?
+Mike: I think the future of search looks a lot like the movie Her. I've been saying this since 2016. In Her, you don't see a lot of clunky interfaces. You have real-world devices that are just connected.
+The future of search is going to be highly proactive. You're on your computer, you put something in your cart, and you forget about it. Later, you're walking down the street, and your device says, "Hey, that item in your cart is in the store 50 feet from you. Do you want me to buy it so you can just pick it up?"
+It's about being the Star Trek computer, doing things for you based on the information it has collected across your ecosystem. Google is already rolling out "personal context," creating vector representations based on your Gmail, your purchases, and your searches.
+Everything is moving toward a one-to-one experience. There isn't going to be a single set of search results that everyone sees. It's going to be an audience of one. It's going to be much more difficult for a brand to penetrate that unless they have content that speaks directly to that specific user's context.
+Jared: Rank tracking would be super fun in those days, huh?
+Mike: Rank tracking is already a silly idea. The way it works now is you spin up a machine, its first action is to perform a search for your keyword in a blank context, and then you report on it. But no user actually searches in a vacuum. Every query is inherently localized and personalized.
+When we get into AI Overviews and ChatGPT, it's highly probabilistic. No one sees the same responses. I can do the same prompt in the same window twice and get different results. The idea of rank tracking is just the best we have right now—it's precise, but it's not accurate.
+Jared: Great point. Well, this has been awesome. I'm so glad we were able to get your perspective today. Mike, thanks so much for being here. What's the best way for people to connect with you?
+Mike: ipullrank.com. That's where all the magic happens. I rank on all the social channels, but if you go to my Instagram, don't expect me to be talking about business!
+Jared: Love it. Thanks so much.
+Mike: No problem.]
+
+---
+
+## Key Points
+
+The 661% Visibility Case Study: iPullRank drove massive ChatGPT visibility growth for a Fortune 500 automotive brand not by chasing keywords, but by optimizing for semantic relevance. They restructured content into "atomic" chunks and fixed internal linking to match specific user intents.
+
+Optimizing for "Synthetic Queries": LLMs don't just look at your primary keyword. Behind the scenes, ChatGPT generates 1 to 7 "synthetic queries," while Google AI generates 10 to 40. Your content needs to answer the entire matrix of related questions, not just the main one.
+
+The Omnimedia Consensus: AI search relies on consensus across the web. Off-page optimization for LLMs isn't just about backlinks; it's about ensuring your brand's core messages are present across YouTube, Reddit, LinkedIn, and microsites so the AI sees it everywhere.
+
+A New Way to Measure Success: Traditional rank tracking is becoming obsolete because AI search is hyper-personalized. Instead, track three buckets: Input metrics (bot crawl activity, passage relevance), Channel metrics (citation share of voice), and Performance metrics (referral traffic, which converts at a higher 5-7% rate despite lower overall volume).
+
+The Future is an "Audience of One": Search is evolving into a proactive, hyper-personalized experience (similar to the movie Her). AI will anticipate your needs based on your personal digital footprint, meaning brands must create content that speaks directly to specific, nuanced user contexts.
