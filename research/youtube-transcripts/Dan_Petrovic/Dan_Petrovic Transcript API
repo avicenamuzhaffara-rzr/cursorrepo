@@ -1,0 +1,64 @@
+# YouTube Transcript - Dan Petrovic
+
+**Video Title:** [AI’s Impact on Link Building | KGMID SEO (James Dooley Interviews Dan Petrovic)]  
+**Video URL:** [https://www.youtube.com/watch?v=yaMOz-PxGLM]  
+**Collected:** June 12, 2026
+
+---
+
+## Transcript
+
+[James: Hi, today I'm joined by Dan Petravic, and the topic of conversation is how AI has affected link building strategies for SEO. Hey Dan, how are we doing?
+Dan: Hey James, doing well.
+James: So with regards to link building, what's changed now that AI is upon us? What do you think has shifted in our strategies?
+Dan: I have a lot to say about this. I've presented on link building for many years, standing in front of large audiences telling them to clean up their act. I'd like to give a bit of history and highlight where link building always fails.
+Link building is often treated as an afterthought. You start with, "Okay, we've got this page we want to rank for, it's finished, now we need to get links for it somehow." You're trying to force a square peg into a round hole. You're trying to make the content fit somewhere else and force the links to exist on that page.
+We've been doing this for so long that the people accepting our links are now aware of what we're doing. They ask for money, but they also enforce their own policies. They tell us: "One link for yourself, and two natural-looking links to make it look natural." It's the most ridiculous thing I've ever heard. If you use that 1+2 formula, you're basically putting a target on your commercial link. You're saying, "Hello, I'm the only commercial link on this page, and these two are fillers."
+I got up on stage in Munich and told people: if I can spot your links, so can Google. Nothing has changed; people just keep doing the same thing. We ruined it for everybody because we trained bloggers to expect that exact format.
+James: So how does AI change this?
+Dan: Let's go down to the machine learning level. I looked at the top 10 biggest blogs in the world—TechCrunch, Mashable, Wired. Regardless of the topic, I reviewed their link integrations. What stood out immediately was that they have 12, 24, or even 50 links on a page. When you go to spammy guest post farms, you see one, two, three, maybe five links. That's an immediately obvious signal.
+I thought, what if I could train a model to think about links the same way these top-tier blogs do? It took a couple of months. I scraped gigabytes of data from TechCrunch, pre-processed it, and marked up every single location where a link existed.
+I took a small, off-the-shelf pre-trained model (Microsoft's DeBERTa) and fine-tuned it using token classification. Token classification goes down to the granularity of a single token to predict the spans in text that are likely to be links. I trained it for a couple of days, and voila: a model that is intuitive about where links naturally fall on the web.
+Now, if I feed it a blank page of plain text, it will paint with great precision exactly where a link should go, based on how the best sites link out naturally. You can use this for link planning. If the model says there's no nice place for your link, rewrite your content.
+James: That's incredible for planning. What about evaluating existing links?
+Dan: That brings me to my second model, which I call "Penguin." Its sole purpose is to spot your commercial link. It acts like a Google web spam team member: it visits the page, reviews all the links, and asks, "Is there one that's obviously for commercial purposes?" If it can detect it, it flags the link and the filler links used to hide it.
+I've been doing link profile analysis with this for two years, and the model outperforms human link builders at link detection. I now have an agentic flow in place that takes a piece of text, tries to integrate the links, and then the Penguin model tries to break it. If it fails, it loops back and rewrites until it can fit the link in a way that fools the spam model.
+I tested this by pretending to post an article on Moz.com. I told the AI to integrate a specific link. It went through 10, 20, 50, 100 iterations, and it couldn't make it work. My link builder model could never find a way to fool the judge.
+So, I want to leave everyone listening with this: if you cannot make the link fit naturally, don't do it. Don't force it. Less is more.
+James: That makes total sense. Relevance is mightily important. Forgetting the physical link for a second, how important are implied links—unlinked mentions or branded mentions? Has AI made them more or less important?
+Dan: For traditional ranking purposes, it doesn't really matter. But for AI, it matters a lot. There's a really cool behavior: if you're a well-known brand and you have an unlinked mention on a website, Gemini in AI Overviews will actually fill it with a link.
+James: Really? It just auto-links it?
+Dan: Yeah, it's like a gift. If you're Nike, Adidas, or Under Armour, and the AI is familiar with those brands, it will just link them up even if the author didn't put a hyperlink there.
+James: Does it only do that if you have a Knowledge Graph Machine ID (KG MID) as a known entity?
+Dan: If you're not a known entity, it's not going to happen. You also have to be a source in the grounding. Gemini is obsessed with preventing hallucinations after some recent embarrassments with bad health advice. Because of that, they are grounding everything with multiple authoritative sources. If you're not in the grounding sources, you won't get that AI gift link.
+James: How does a real business build that authority and become a known source in the Knowledge Graph? Everything seems to relate back to being a brand.
+Dan: (Laughs) Invent a time machine, go back seven years, and edit Firebase before Google acquired it. I'm glad I spammed Firebase when I did!
+Jokes aside, Google has a proper system of entities. I actually have a browser extension that lets you check the Google Search Results Page to see who is a known entity and view their entity ID from the Knowledge Graph. You can check your brand on my tool at don.ai/tools. If you have an entity in Google's Knowledge Graph, that's proof you're a registered known quantity.
+James: So for link building today, it’s about aligning your strategy to improve your confidence score in the Knowledge Graph, corroborate your framing for LLMs, and get traditional rankings. All three need to fall in line. Is there anything else related to improving link building for AI?
+Dan: Yes, Wikidata. I did something really important recently. I used all the Wikidata entities and drew a parallel between known entities. I looked at the semantic similarity between the Gemini model and its cousin Gemma. I found that when you rotate the embeddings, they always converge in the same semantic space.
+There is something about Wikidata that has really strong utility for SEOs looking to gain an edge in AI visibility. I seriously recommend checking it out.
+James: The only thing I'd add is a warning: don't just go create a Wikidata account and edit it yourself if you don't have a real online presence. It's like trying to create a Wikipedia page before you deserve one; they'll just delete it. You need to build an entity home, connect nodes and edges, and have genuine relevance online.
+Dan: Exactly. It has to be a parallel to actual Wikipedia. But if you are a genuine business with connections, you can inject your information and connect it to other entities.
+I actually built the full Wikidata graph. I downloaded the entire 68GB dataset, extracted the label information, and built an undirected knowledge graph. I then created vector embeddings of the entire knowledge graph using Gemini.
+I now have a semantic search engine. If I type in "Rand Fishkin," it will give me high cosine similarities towards SEO, and low similarities towards cake making. It shows you exactly how Gemini thinks about brands. You can put your brand in as a search term and it will return the most aligned concepts in Google's semantic space. It's unbelievable for keyword research, clustering, gap analysis, and link building. And this data is free and available to us.
+James: It's unbelievable. Nearly every episode we do comes back down to building a brand and getting yourself into the Knowledge Graph. Dan Petravic, it's been an absolute pleasure. Thank you very much.
+Dan: Thanks, James.
+]
+
+---
+
+## Key Points
+
+The "1+2" link formula is obsolete: Trying to hide a commercial link by adding two random "natural" links to make it look balanced is a massive red flag. Top-tier sites (like TechCrunch) naturally have 12 to 50 links per page, while spammy guest posts usually cap out at 3 or 4.
+
+Use AI to predict natural link placement: Dan fine-tuned a machine learning model (DeBERTa) on top-tier blogs to predict exactly where links naturally fall in text. If your commercial link doesn't land in a "natural" spot according to the model, you need to rewrite the content.
+
+The "Penguin" test: Dan built a secondary AI model specifically to act as a web spam evaluator. If his model can easily detect which link on the page is the commercial one, the link is too obvious and shouldn't be published.
+
+Gemini auto-links known brands: If you are a recognized entity and get an unlinked brand mention on a page, Google’s Gemini AI will often automatically turn that mention into a clickable link in AI Overviews.
+
+You need a KG MID: To get those AI "gift" links, you must be in Google's Knowledge Graph (having a Knowledge Graph Machine ID). You can check your entity status using tools like the one on don.ai/tools.
+
+Wikidata is a goldmine for semantic SEO: Dan downloaded the entire 68GB Wikidata dataset and built a semantic search engine using vector embeddings. This allows you to see exactly how AI models "think" about the relationships between your brand and specific concepts, which is incredible for keyword clustering and link building.
+
+---
