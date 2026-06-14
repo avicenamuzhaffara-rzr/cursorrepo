@@ -1,0 +1,60 @@
+# YouTube Transcript - Kevin Indig
+
+**Video Title:** [Google Will Kill Your Traffic - Here's How You Adapt | Kevin Indig (Growth Memo)]  
+**Video URL:** [https://www.youtube.com/watch?v=jQXvbeYF5go]  
+**Collected:** June 13, 2026
+
+---
+
+## Transcript
+
+[Tim (Host): Today, SEO is facing one of the biggest shakeups we've seen in years. Between generative AI, search experience changes, and the evolution of AI chatbots, the entire landscape is undergoing massive disruption. I can't think of a better guest than Kevin Indig to discuss what's really happening in search and where it's all going. Kevin has advised fast-growing companies like Reddit, Dropbox, and Snapchat, and led SEO and growth at Shopify, G2, and Atlassian. Kevin, thanks for doing this.
+Kevin Indig: Happy to be here, Tim. Long time coming.
+Tim: I told you this isn't going to be my typical interrogation. I want to catch up and exchange notes on what you're seeing with AI and search. Let's start with how search itself is changing. I posted the "crocodile chart" on LinkedIn recently, showing impressions and clicks going in different directions. Is anyone immune to this?
+Kevin: I haven't seen anyone immune to this. 2024 is the peak traffic year. I think we'll look back and say that was the most traffic we've ever seen. Clicks are going down, but impressions are going up. The impression increase is mostly due to how Google counts impressions for AI Overviews. Every URL cited automatically gets an impression when the overview loads.
+We did a usability study and saw that over 85% of people click the "load more" button to see the rest of the AI overview.
+Tim: 85% click "load more"? That’s not my personal experience. I rarely click it.
+Kevin: It depends on the query. But we also noticed that the majority of people only read the upper third of the AI overview. It's the same behavior people had before AIO—they skim the top of the page. So, it is most important to be cited early on.
+Tim: Let's talk about the impact. Do you see a correlation between the loss of traffic and the loss of revenue? Rand Fishkin published an article about "traffic down, revenue up," and we're seeing the same at Ahrefs. Our traffic is down, but revenue is still climbing. What are you seeing?
+Kevin: Across my clients, revenue is relatively flat on average; the correlation with traffic loss is low. Publishers and affiliates are in a bad place. Affiliate SEO was a cheat code for the last five years, and it's coming to an end. But SaaS companies are typically flat to up. E-commerce hasn't been hit as hard yet.
+There's an interesting theory here: either the top-of-funnel content SEOs created had more downstream impact than we realized, or AI Overviews are starting to show up for commercial queries. I think it's both. AI Overviews are cutting deeper into commercial and transactional queries than we can currently measure.
+Tim: Is it actually useful to show up in these AI Overviews as a brand?
+Kevin: We don't know for sure yet. There are rare cases showing a benefit, but it's tricky to track. Google changes AIO so much. As soon as a new Gemini model drops, it impacts the overview. The noise factor is incredibly high. Any case study claiming a massive uplift from AIO citations needs to be viewed carefully. A lot of the impact has to come through self-serve attribution—asking people, "How did you hear about us?"—because users will just say "Google."
+Tim: How do you grow your coverage in AI Overviews?
+Kevin: It comes down to giving the most relevant and best answer. We have to differentiate between shorthand keywords (like "best SEO tool") and hyper-specific prompts (like "best rank tracker for a five-person legal company under $200"). The more specific the prompt, the easier it is to understand what a good answer looks like.
+Tactically, it's about content freshness, relevance, brand authority, and trust. It sounds eerily similar to how we did SEO a decade ago. The first principles apply, but AI accelerates everything. The biggest difference between AI search optimization and classic SEO right now isn't what we do as SEOs; it's what users are doing. They're searching with longer prompts because LLMs finally understand long-tail intent. There is a massive vacuum of hyper-specific content targeting these new types of questions.
+Tim: You mentioned Google is constantly changing AI Overviews. It makes sense that they might cache answers for popular queries to save compute. Have you seen studies on how often Google changes them?
+Kevin: They change relatively often. Anecdotally, it's similar to classic keywords. When Google sees a new query, the results are volatile for the first couple of weeks while they figure out user intent. Over time, it stabilizes. I expect the same for AI Overviews. New, unseen prompts might change by the hour, but as the topic stabilizes, the change rate calms down.
+Tim: Let's talk about the "SEO is dead" narrative. What are you seeing among your clients? Are they abandoning SEO?
+Kevin: In the minds of leadership—CMOs, CEOs—they see a 30% structural decline in web traffic. To them, SEO might not be dead, but it's in a coma. It's hard to tell leadership "SEO is fine" when they see that number, unless you can prove it with revenue data.
+Because traditional SEO is declining, leadership is asking, "What is next?" The majority see AI search as the next thing. Everyone is hungry to invest. Budgets are opening up because they smell a first-mover advantage. But there is a window to prove ROI, or those budgets will dry up. AI traffic currently converts at a much higher rate than organic traffic, but it's still small. I recently saw a chart for a smaller company where the revenue line from classic SEO and the revenue line from ChatGPT crossed in an "X" shape. It's encouraging, but for the broad average, LLM conversions still only make up 1% to 10% of the organic bottom line.
+Tim: Is there a difference between ranking in Google AI Overviews and ranking in ChatGPT?
+Kevin: Yes. LLMs lean heavily on search engines to ground their answers, so there's a carryover effect. In consolidated markets, like CRM software, the winners on Google (Salesforce, HubSpot) are the same winners on ChatGPT.
+But in fragmented markets, it's a completely different game. The winners on Google are not the winners on ChatGPT. Some sites accidentally block LLMs, opening the door for challengers. Others have an old-school SEO approach that doesn't translate well to LLMs. You need to monitor your visibility in LLMs, mainly ChatGPT, and reverse-engineer why a competitor is more visible. Is it a specific piece of content? A specific stat? Brand sentiment?
+Tim: This is why we built the Ahrefs Brand Radar tool. It pulls the prompts where your brand is mentioned and the exact pages LLMs are citing. Our head of technical SEO, Patrick Stoks, found that different models have different biases. Google and Gemini lean heavily on Reddit, while ChatGPT leans more on Wikipedia.
+Kevin: Exactly. SEO has become multi-platform. We can't just focus on our own websites. We need to focus on how we're portrayed on Wikipedia, Reddit, G2, and Trustpilot.
+Tim: Let's shift gears to using AI for marketing. What are the top use cases for AI in SEO that people are falling behind on if they aren't using them?
+Kevin: My principal approach is that LLMs aren't good enough yet to replace an entire workflow, like keyword research or content generation. But they are good enough to automate steps within those workflows.
+Here is a specific example: I worked with Ramp, the fintech company. We took transcripts of conversations between prospects who turned into customers and the sales team. We used an AI tool to analyze these transcripts and asked questions like: What problems are customers facing? What solutions are they currently using? Who else are they looking at?
+We used AI to identify the answers from hundreds of conversations, and then we created blog articles based on those exact pain points. We didn't even look at search volume. The articles converted at a much higher rate because we knew exactly what the target audience cared about. Almost nobody actually listens to customer conversations anymore because marketing became so quantified over the last two decades. Going back to first principles and using AI to analyze sales calls gives you a massive competitive advantage.
+Tim: That makes sense. What's the second use case?
+Kevin: Providing interactive tools or experiences on top of just text. With "vibe coding" tools like v0, Lovable, or Cursor, you can create little tools very quickly. Marketers can use AI to build a proof of concept—like a calculator, a quiz, or a widget—validate that it works, and then hand it over to a developer to build it properly.
+It's hugely effective. You can embed these calculators in your blog content or content hubs to provide a better experience and improve conversion rates.
+Tim: I agree that having a developer on the marketing team to vibe-code these ideas is a great approach. If you aren't a developer, you'll waste a lot of time getting stuck at 99% completion. But having a dedicated resource to turn out these mini-tools fast, show them to the product team, and productize them is a game-changer.
+Kevin: Absolutely. A developer will always do a better job, but this is the first time a marketer can actually create tools at all. With traffic dropping, it's the perfect time to think more deliberately about building interactive experiences.
+Tim: Kevin, it's been a pleasure. I'm looking forward to seeing you at the Ahrefs Evolve conference in San Diego this October. Thanks for doing this.
+Kevin: Thanks, Tim. Super excited about it. See you in San Diego.]
+
+---
+
+## Key Points
+
+Traffic vs. Revenue: Publishers and affiliates are getting crushed by AIO, but SaaS and e-commerce brands are seeing flat or growing revenue. AI traffic converts at a much higher rate than traditional organic clicks.
+
+User Behavior in AIO: About 85% of users click "load more" on AI Overviews, but they mostly just skim the top third. Getting cited early in the response is critical.
+
+The "Verification" Loop: Users don't just blindly trust AI. They use platforms like Reddit, YouTube, G2, and Trustpilot to verify AI answers. Your off-site reputation and community presence are now direct ranking factors for AI.
+
+Google vs. ChatGPT: In consolidated markets (like CRM software), the winners on Google are the same on ChatGPT. In fragmented markets (like e-commerce), the winners are often completely different. You have to monitor both.
+
+Using AI for Marketing: Stop using AI just to write generic blog posts. Use it to analyze sales call transcripts (via tools like Gong or Humata) to find real customer pain points. Also, use "vibe coding" tools (like v0 or Cursor) to quickly build interactive calculators and widgets that boost conversions.
