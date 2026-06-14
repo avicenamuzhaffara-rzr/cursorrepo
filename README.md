@@ -1,19 +1,17 @@
 # Research Project: AI-Powered SEO Content Production
 
 **Researcher:** avicenamuzhaffara-rzr  
-**Timeline:** 3 days  
-**Topic:** AI-powered SEO content production
+
 
 ## Objective
-Research how top experts use AI tools for SEO content creation, analyzing their strategies, tools, and real-world results.
+My objective is to research how top experts use AI tools for SEO content creation, analyzing their strategies, tools, and real-world results.
 
 ## What I'm Investigating
 1. What AI tools do SEO experts actually use in practice?
-2. How do they maintain content quality while scaling with AI?
-3. What are the real ROI and results from AI-powered SEO?
+2. What projects have they done to make the eligible to be considered experts in SEO and AI related topics
 
-## Project Structure
-
+## Listed experts (10 experts)
+>>>>>>>>
 ## Why I'm choosing these guys
 LinkedIn organic content strategy for AI SEO
 
@@ -24,8 +22,8 @@ LinkedIn organic content strategy for AI SEO
 Kevin Indig is a prominent growth advisor and former SEO leader who is widely recognized for his expertise in organic growth, technical SEO, and the impact of Artificial Intelligence on search visibility.
 
 Professional Background & Experience Leadership Roles: 
->He held senior positions leading SEO and growth teams at major tech companies, including Shopify, Atlassian, and G2.  
->Advisory Work: He currently serves as a growth advisor for high-growth startups and tech companies, such as Reddit, Snapchat, Dropbox, Ramp, and Nextdoor.  >Hypergrowth Partner: He is part of Hypergrowth Partners, a firm that provides senior strategic leadership to scale organic growth for tech companies. 
+-He held senior positions leading SEO and growth teams at major tech companies, including Shopify, Atlassian, and G2.  
+-Advisory Work: He currently serves as a growth advisor for high-growth startups and tech companies, such as Reddit, Snapchat, Dropbox, Ramp, and Nextdoor.  >Hypergrowth Partner: He is part of Hypergrowth Partners, a firm that provides senior strategic leadership to scale organic growth for tech companies. 
 
 He is a frequent speaker at global industry conferences where he discusses the future of organic growth, AI search trends, and the evolution of SEO from a "keyword/link" discipline to one involving brand influence and AI readiness.
 
@@ -64,4 +62,6 @@ As the co-founder of SparkToro and former CEO of Moz, Rand Fishkin is perhaps th
 Based in Australia and founder of DejanSEO, Dan Petrovic is a rare breed of expert who focuses on deep, ongoing experimentation with machine learning and Natural Language Processing (NLP). Unlike those who stick to high-level strategy, Petrovic spends his time running technical experiments to see exactly how generative engines synthesize and cite information. His work is highly respected for its "lab-like" approach; he is known for reverse-engineering search algorithms to figure out what content signals actually trigger an AI citation. He is an excellent choice if you want to include someone who prioritizes technical, "under-the-hood" optimization over generic marketing buzzwords.  
 
 10~ Mike Khorev
-Why include him: He is a boutique specialist who focuses on the technical side of optimizing for platforms like ChatGPT and Perplexity. He frequently publishes guides on ranking signals for AI search and how to use AI tools for specific SEO tasks, making his content highly practical for your "technical pipeline" project.
+Why include him: He is a boutique specialist who focuses on the technical side of optimizing for platforms like ChatGPT and Perplexity. He frequently publishes guides on ranking signals for AI search and how to use AI tools for specific SEO tasks. 
+
+According to enago.com, Mike Khorev is "a lead SEO expert at Nine Peaks Media a B2B SaaS SEO agency that helps software, IT, technology, and start-up companies improve their ranking on Google search. He offers expert advice on optimizing websites through performance-based on and off site SEO, inbound marketing, conversion rate optimization, search engine marketing, and many other online practices, making his content highly practical for a highly technical pipeline project.
